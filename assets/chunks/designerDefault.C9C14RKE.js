@@ -1,0 +1,1 @@
+import{_ as n,C as o,b as r,o as t}from"./framework.BQBwqTwb.js";const s={};function c(_,a){const e=o("bpmn-designer");return t(),r(e,{autoInit:"",border:""})}const d=n(s,[["render",c]]);export{d as default};
